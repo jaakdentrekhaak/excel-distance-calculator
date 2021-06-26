@@ -1,0 +1,8 @@
+1. Open Excel file
+2. Get all values of 2 columns with postal codes of cities
+3. Place those values in 2 lists (postal_codes_from and postal_codes_to)
+4. Take corresponding postal codes out of the two lists.
+5. Open webdriver and open google maps
+6. Paste the postal codes into google maps
+7. Webscrape the time and distance of the route
+8. Get the result and put it into the original excel file in new columns (one for distance, one for traject time)
